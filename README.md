@@ -58,5 +58,5 @@ AIRstylus-website/
 ## 💻 Download AIRstylus
 
 - **Platform**: Windows 10 & 11 (64-bit)
-- **Installer**: [Download AIRstylus-Setup-1.0.0.exe](https://www.mediafire.com/file/g4fqw6yk5i1ogcv/AIRstylus-Setup-1.0.0.exe/file)
+- **Installer**: [Download AIRstylus-Setup-1.0.0.exe](https://www.mediafire.com/file/dwtpyg7234f1rzw/AIRstylus-Setup-1.0.0.exe/file)
 - **Hardware**: Any standard 720p/1080p USB or integrated webcam
